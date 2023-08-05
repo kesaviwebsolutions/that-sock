@@ -7,7 +7,7 @@ import "./Navbar.css";
 import { useState } from "react";
 import CloseBtn from "../Icons/mobilenavbtn/CloseBtn";
 import OpenBtn from "../Icons/mobilenavbtn/OpenBtn";
-import LogoIcon from "../Icons/LogoIcon";
+import LogoIcon from "../images/download.png";
 import { MenuOutlined } from "@ant-design/icons";
 export default function NavBar({
   useBurner,
@@ -45,7 +45,7 @@ export default function NavBar({
 
           <Menu.Item key="/yourSocks" className="navbar__menu-item">
             <Link to="/yourSocks" className="navbar__link navbar__menu-item-desktop-content">
-              Your Socks
+              Your Ponds & Ducks
             </Link>
           </Menu.Item>
 
@@ -65,7 +65,7 @@ export default function NavBar({
 
       <div className="navbar__logo">
         <Link to="/">
-          <LogoIcon />
+          <img src={LogoIcon} width={50}/>
         </Link>
       </div>
       <div className="navbar__account">
