@@ -6,7 +6,7 @@
       "contentHash": "ee0595464c764f149aaf77f140cf09f3",
       "sourceName": "contracts/SockBackground/AdditionalBackgrounds/FlowerBackground.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -49,7 +49,7 @@
       "contentHash": "b10e4154f477ded6ad405e1a9902ad95",
       "sourceName": "contracts/SockBackground/BackgroundLibrary.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -98,7 +98,7 @@
       "contentHash": "e1d02ffa4441e21ccf6f42ebefbd5bdc",
       "sourceName": "contracts/SockBackground/AdditionalBackgrounds/LeavesBackground.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -141,7 +141,7 @@
       "contentHash": "d2695efecf8003f08638f1036d48f23a",
       "sourceName": "contracts/SockBackground/AdditionalBackgrounds/PillowBackground.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -184,7 +184,7 @@
       "contentHash": "91239fbb2fbda7fe2cd991bd0060b6b8",
       "sourceName": "contracts/SockBackground/AdditionalBackgrounds/RugBackground.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -227,7 +227,7 @@
       "contentHash": "a7c3cd1c47e59cd234eda547bd51326a",
       "sourceName": "contracts/SockBackground/AdditionalBackgrounds/WaterBackground.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -270,7 +270,7 @@
       "contentHash": "83c7f399dd5901b76f8f08654d14b75e",
       "sourceName": "contracts/ThisSocks.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -327,7 +327,7 @@
       "contentHash": "88095889e59d16821879a8083f906503",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -373,7 +373,7 @@
       "contentHash": "74654e3ae5d7f39555055dfe244dab7a",
       "sourceName": "@openzeppelin/contracts/utils/Counters.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -416,7 +416,7 @@
       "contentHash": "8398972af73b4e9e5ff3b31cad86234f",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -461,7 +461,7 @@
       "contentHash": "9c54c6c065d9e590fdcdd72c451425b9",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -504,7 +504,7 @@
       "contentHash": "0d54cb6a748ddde95d92ed7802c9248d",
       "sourceName": "base64-sol/base64.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -547,7 +547,7 @@
       "contentHash": "2f8468128ebbea89faea023207fcbac8",
       "sourceName": "contracts/StyleLibrary.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -590,7 +590,7 @@
       "contentHash": "b21df8b312b42aca428127d56d320bdc",
       "sourceName": "contracts/SockPin/PinLibrary.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -633,7 +633,7 @@
       "contentHash": "e3311359cc3c397166348d79a7ff8719",
       "sourceName": "contracts/SockPin/PinLibraryMetadata.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -676,7 +676,7 @@
       "contentHash": "eb440cf65a8efa938202d195d205a210",
       "sourceName": "contracts/SockLayoutLibrary.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -719,7 +719,7 @@
       "contentHash": "35e721c2884cd142376a7cff04846d00",
       "sourceName": "contracts/SockBackground/BackgroundMetadataLibrary.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -762,7 +762,7 @@
       "contentHash": "3ab3678e29fa30ab7df3589a41e61889",
       "sourceName": "contracts/SockPattern/PatternLibrary.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -818,7 +818,7 @@
       "contentHash": "8e5e72e15a3ef6ebdaa97509d3d7ebe7",
       "sourceName": "contracts/SockPattern/PatternMetadataLibrary.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -874,7 +874,7 @@
       "contentHash": "ead7082e39cf31875ff89b22f473500d",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -925,7 +925,7 @@
       "contentHash": "f69eb47f667b846a8698697d25eeff4e",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -970,7 +970,7 @@
       "contentHash": "27d219ec6f69478d065fdbfa7931da68",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1015,7 +1015,7 @@
       "contentHash": "592df588492d45fdcf46b3cb608c0fbf",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1058,7 +1058,7 @@
       "contentHash": "efbc0d15b80a74e34dbe8da0f3e879bb",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1103,7 +1103,7 @@
       "contentHash": "4cff8b2ea0d958750786b4e3ca308445",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1146,7 +1146,7 @@
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1189,7 +1189,7 @@
       "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1234,7 +1234,7 @@
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1277,7 +1277,7 @@
       "contentHash": "cbbe39ecd22d291edfd1c4c8b7c29824",
       "sourceName": "contracts/SockPattern/Patterns/BonePattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1320,7 +1320,7 @@
       "contentHash": "a53a1378c5ae45af1e6c789ca8ba9981",
       "sourceName": "contracts/SockPattern/Patterns/ChilliPattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1363,7 +1363,7 @@
       "contentHash": "bbd0e79e2a2e12d9e19e5766840cd61d",
       "sourceName": "contracts/SockPattern/Patterns/CloudPattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1406,7 +1406,7 @@
       "contentHash": "c7c2c7c69b623b3e237be6ff68a771aa",
       "sourceName": "contracts/SockPattern/Patterns/FirePattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1449,7 +1449,7 @@
       "contentHash": "270f58008800d7f66eb1f14399c1debc",
       "sourceName": "contracts/SockPattern/Patterns/HeartBreakPattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1492,7 +1492,7 @@
       "contentHash": "5eb03ef5dd0368cbde5a6b0e6f4c7a04",
       "sourceName": "contracts/SockPattern/Patterns/HeartPattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1535,7 +1535,7 @@
       "contentHash": "1846469ad7ed063362d06fe4679a565f",
       "sourceName": "contracts/SockPattern/Patterns/LemonPattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1578,7 +1578,7 @@
       "contentHash": "06e08439cff0be7a622c7a1662be9597",
       "sourceName": "contracts/SockPattern/Patterns/LightingPattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1621,7 +1621,7 @@
       "contentHash": "09f6482e6b797e750fdd4f3a1b032891",
       "sourceName": "contracts/SockPattern/Patterns/MultiplePattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1664,7 +1664,7 @@
       "contentHash": "d21fba8b12119b607d9df2f68fdc0d6c",
       "sourceName": "contracts/SockPattern/Patterns/StarPattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1707,7 +1707,7 @@
       "contentHash": "cc2844b4278b2b15d474a1e5ba52abc7",
       "sourceName": "contracts/SockPattern/Patterns/StripePattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1750,7 +1750,7 @@
       "contentHash": "bb9b6cce2bd3ab740890633885e71c7c",
       "sourceName": "contracts/SockPattern/Patterns/UfoPattern.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1793,7 +1793,7 @@
       "contentHash": "a527ed58922bb67a91e16f642b68aa32",
       "sourceName": "contracts/SockPatternLibrary.sol",
       "solcConfig": {
-        "version": "0.8.13",
+        "version": "0.8.19",
         "settings": {
           "optimizer": {
             "enabled": true,
@@ -1829,6 +1829,63 @@
       ],
       "artifacts": [
         "SockPatternLibrary"
+      ]
+    },
+    "/Users/arrnaya/Documents/GitHub/that-sock/packages/hardhat/contracts/PondNFTs.sol": {
+      "lastModificationDate": 1691742565397,
+      "contentHash": "f21b2c566ab889d87c8e79aa04044543",
+      "sourceName": "contracts/PondNFTs.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 100
+          },
+          "viaIR": true,
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.19"
+      ],
+      "artifacts": [
+        "AccessLock",
+        "Address",
+        "Context",
+        "Counters",
+        "DuckRaceDerbyPondNFT",
+        "ERC165",
+        "ERC721A",
+        "IERC165",
+        "IERC721",
+        "IERC721A",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Math",
+        "Ownable",
+        "Strings"
       ]
     }
   }

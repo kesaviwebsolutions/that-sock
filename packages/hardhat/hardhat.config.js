@@ -72,6 +72,14 @@ module.exports = {
       
       */
     },
+    maaltestnet: {
+      url: "https://node1.maalscan.io", // <---- YOUR INFURA ID! (or it won't work)
+      //    url: "https://speedy-nodes-nyc.moralis.io/XXXXXXXXXXXXXXXXXXXXXXX/eth/rinkeby", // <---- YOUR MORALIS ID! (not limited to infura)
+      gasPrice: 1000000000,
+      accounts: {
+        mnemonic: mnemonic(),
+      },
+    },
     rinkeby: {
       url: "https://rinkeby.infura.io/v3/8e2d4cd0d25d4e75ac2f2ab969f77009", // <---- YOUR INFURA ID! (or it won't work)
       //    url: "https://speedy-nodes-nyc.moralis.io/XXXXXXXXXXXXXXXXXXXXXXX/eth/rinkeby", // <---- YOUR MORALIS ID! (not limited to infura)
@@ -297,7 +305,7 @@ module.exports = {
   solidity: {
     compilers: [
       {
-        version: "0.8.13",
+        version: "0.8.19",
         settings: {
           optimizer: {
             enabled: true,
